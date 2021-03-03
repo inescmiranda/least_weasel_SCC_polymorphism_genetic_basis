@@ -5,7 +5,7 @@
 # Combines complete file from each population into a single table.
 # Sites with missing data are removed.
 # Invariable sites are removed.
-# Sites with same minor allele count < N (suggestion 4) in all populations and = 0 in the outgroup are removed
+# Sites with same minor allele count < N (suggestion 4) in all populations and = 0 in the outgroup (Ferret) are removed
 ##
 # Usage:
 # python 3-combine-counts.py complete-SweNiv complete-SweVulg complete-PolNiv complete-PolVulg complete-Ferret N-minor-count > combine-output
