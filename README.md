@@ -8,6 +8,6 @@ The scripts included here were used to:
 
 2. Create input files for [SweeD](https://cme.h-its.org/exelixis/web/software/sweed/) software from allele frequencies estimated with [ANGSD](http://www.popgen.dk/angsd/index.php/ANGSD).
 
-All python script use python2.7.
+All python scripts use python2.7.
 
 Contact: inesmiranda(at)cibio.up.pt
