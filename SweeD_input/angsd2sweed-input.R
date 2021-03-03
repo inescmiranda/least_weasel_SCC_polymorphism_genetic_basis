@@ -3,7 +3,7 @@
 #
 # I. Miranda (03/2019)
 #
-# This script assumes that the ANGSD .mafs output was produced using the ancestral state as major allele (-doMaf 5).
+# This script assumes that the ANGSD .mafs output was produced using the ancestral state (ancestral reference provided with -anc) as major allele (-doMaf 5).
 #
 
 #Import required library:
