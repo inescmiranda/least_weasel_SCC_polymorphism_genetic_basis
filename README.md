@@ -1,6 +1,6 @@
 # Winter colour polymorphism genomics
 
-This repository contains custom-made scripts used for analysis of WGS data from least weasels (*Mustela nivalis*) for population genomic analyses and mapping of adaptive traits. Available data included low-coverage individual whole-genome sequencing. These data were analysed at the population level by combining data from individuals of the same population into a single file.
+This repository contains custom-made scripts used for population genomic analyses and mapping of adaptive traits of WGS data of least weasels (*Mustela nivalis*). Available data included low-coverage individual whole-genome sequencing. These data were analysed at the population level by combining data from individuals of the same population into a single file.
 
 The scripts included here were used to:
 
