@@ -54,7 +54,7 @@ combined_list = set(combined_list)
 combined_list = list(combined_list)
 
 
-# Add Polish nivalis keys:
+# Add Polish vulgaris keys:
 
 PV_key_file = open(sys.argv[4], 'r')
 PV_key_list = PV_key_file.readlines()
