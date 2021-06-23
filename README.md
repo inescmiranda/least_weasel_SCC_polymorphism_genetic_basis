@@ -11,3 +11,5 @@ The scripts included here were used to:
 All python scripts use python2.7.
 
 Contact: inesmiranda(at)cibio.up.pt
+
+Scripts used in: Miranda I, Giska I, Farelo L, Pimenta J, Zimova M, Bryk J, Dalén L, Mills LS, Zub K, Melo-Ferreira J (2021) Museomics dissects the genetic basis for adaptive seasonal colouration in the least weasel. Molecular Biology and Evolution. https://doi.org/10.1093/molbev/msab177.
