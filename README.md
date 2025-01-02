@@ -1,4 +1,4 @@
-# Winter colour polymorphism genomics
+# Least weasel winter colour polymorphism genetic basis
 
 This repository contains custom-made scripts used for population genomic analyses and mapping of an adaptive trait of least weasels (*Mustela nivalis*). Available data included low-coverage individual whole-genome sequencing (WGS) and were analysed at the population level by combining data from individuals of the same population into a single .bam file.
 
@@ -10,6 +10,10 @@ The scripts included here were used to:
 
 All python scripts use python2.7.
 
-Contact: inesmiranda(at)cibio.up.pt
+---
 
-Scripts used in: Miranda I, Giska I, Farelo L, Pimenta J, Zimova M, Bryk J, Dalén L, Mills LS, Zub K, Melo-Ferreira J (2021) Museomics dissects the genetic basis for adaptive seasonal colouration in the least weasel. *Molecular Biology and Evolution*. https://doi.org/10.1093/molbev/msab177.
+**Contact**: inesmiranda(at)cibio.up.pt
+
+Scripts used in the following publication:
+
+Miranda I, Giska I, Farelo L, Pimenta J, Zimova M, Bryk J, Dalén L, Mills LS, Zub K, Melo-Ferreira J (2021) _Museomics dissects the genetic basis for adaptive seasonal colouration in the least weasel_. **Molecular Biology and Evolution**, 38(10):4388–4402. https://doi.org/10.1093/molbev/msab177.
