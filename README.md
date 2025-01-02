@@ -16,4 +16,4 @@ All python scripts use python2.7.
 
 Scripts used in the following publication:
 
-Miranda I, Giska I, Farelo L, Pimenta J, Zimova M, Bryk J, Dalén L, Mills LS, Zub K, Melo-Ferreira J (2021) _Museomics dissects the genetic basis for adaptive seasonal colouration in the least weasel_. **Molecular Biology and Evolution**, 38(10):4388–4402. https://doi.org/10.1093/molbev/msab177.
+Miranda I, Giska I, Farelo L, Pimenta J, Zimova M, Bryk J, Dalén L, Mills LS, Zub K, Melo-Ferreira J (2021) _Museomics dissects the genetic basis for adaptive seasonal colouration in the least weasel._ **Molecular Biology and Evolution**, 38(10):4388–4402. https://doi.org/10.1093/molbev/msab177.
